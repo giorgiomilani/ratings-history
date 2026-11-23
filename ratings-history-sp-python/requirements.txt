@@ -1,0 +1,2 @@
+# Optional: only required for --format parquet or --format both.
+pyarrow>=14
